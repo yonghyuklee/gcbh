@@ -1,0 +1,13 @@
+INCAR created by Atomic Simulation Environment
+ SIGMA = 0.100000
+ GGA = PE
+ PREC = Normal
+ IBRION = 2
+ ISMEAR = 0
+ LORBIT = 10
+ NSW = 500
+ NCORE = 8
+ LASPH = .TRUE.
+ LCHARG = .FALSE.
+ LWAVE = .FALSE.
+ LREAL = Auto
