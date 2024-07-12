@@ -1,0 +1,154 @@
+
+                                               ,--, 
+    ,----..      ,----..       ,---,.        ,--.'| 
+   /   /   \    /   /   \    ,'  .'  \    ,--,  | : 
+  |   :     :  |   :     : ,---.' .' | ,---.'|  : ' 
+  .   |  ;. /  .   |  ;. / |   |  |: | |   | : _' | 
+  .   ; /--`   .   ; /--`  :   :  :  / :   : |.'  | 
+  ;   | ;  __  ;   | ;     :   |    ;  |   ' '  ; : 
+  |   : |.' .' |   : |     |   :     \ '   |  .'. | 
+  .   | '_.' : .   | '___  |   |   . | |   | :  | ' 
+  '   ; : \  | '   ; : .'| '   :  '; | '   : |  : ; 
+  '   | '/  .' '   | '/  : |   |  | ;  |   | '  ,/  
+  |   :    /   |   :    /  |   :   /   ;   : ;--'   
+   \   \ .'     \   \ .'   |   | ,'    |   ,/       
+    `---`        `---`     `----'      '---'        
+
+
+          Grand Canonical Basin-Hoppings 
+                 Geng Sun(UCLA)          
+                gengsun@ucla.edu        
+---------------------------------------------------
+
+ Chemical potential of Ti is 0.000
+ Chemical potential of Al is 0.000
+ Chemical potential of B is 0.000
+ Current_atoms.traj or Current_Status.json no found, start from scratch
+ 11-Jul-2024 23:07:26: begin structure optimization subroutine at step 0
+ 11-Jul-2024 23:18:18: Optimization Done
+ -------------------------------------------------------
+ 11-Jul-2024 23:18:18:  Starting Basin-Hopping Step 00001
+ 11-Jul-2024 23:18:18 : Starting operator 'cluster_random_perturbation' (formula Al4B12Ti2)
+ 11-Jul-2024 23:18:18 : End operator (formula Al4B12Ti2)
+ One structure found, begin to optimize this structure
+ 11-Jul-2024 23:18:18: begin structure optimization subroutine at step 1
+ 12-Jul-2024 00:22:14: Optimization Done
+ Rejected, F(old)=-97.671 F(new)=-95.156
+ 12-Jul-2024 00:22:16  GCBH (natoms= 18, Al4B12Ti2) Steps:       0 E=   -97.67117556 F=   -97.67117556
+ modifier cluster_random_perturbation (weight 1.90)
+ Current Temperature is 1000.00
+ -------------------------------------------------------
+ -------------------------------------------------------
+ 12-Jul-2024 00:22:16:  Starting Basin-Hopping Step 00002
+ 12-Jul-2024 00:22:16 : Starting operator 'cluster_random_perturbation' (formula Al4B12Ti2)
+ 12-Jul-2024 00:22:16 : End operator (formula Al4B12Ti2)
+ One structure found, begin to optimize this structure
+ 12-Jul-2024 00:22:16: begin structure optimization subroutine at step 2
+ 12-Jul-2024 02:41:52: Optimization Done
+ Rejected, F(old)=-97.671 F(new)=-94.497
+ 12-Jul-2024 02:41:52  GCBH (natoms= 18, Al4B12Ti2) Steps:       1 E=   -97.67117556 F=   -97.67117556
+ modifier cluster_random_perturbation (weight 1.81)
+ Current Temperature is 1000.00
+ -------------------------------------------------------
+ -------------------------------------------------------
+ 12-Jul-2024 02:41:52:  Starting Basin-Hopping Step 00003
+ 12-Jul-2024 02:41:52 : Starting operator 'cluster_random_perturbation' (formula Al4B12Ti2)
+ 12-Jul-2024 02:41:52 : End operator (formula Al4B12Ti2)
+ One structure found, begin to optimize this structure
+ 12-Jul-2024 02:41:52: begin structure optimization subroutine at step 3
+ 12-Jul-2024 05:09:57: Optimization Done
+ Rejected, F(old)=-97.671 F(new)=-96.324
+ 12-Jul-2024 05:09:57  GCBH (natoms= 18, Al4B12Ti2) Steps:       2 E=   -97.67117556 F=   -97.67117556
+ modifier cluster_random_perturbation (weight 1.73)
+ Current Temperature is 1000.00
+ -------------------------------------------------------
+ -------------------------------------------------------
+ 12-Jul-2024 05:09:57:  Starting Basin-Hopping Step 00004
+ 12-Jul-2024 05:09:57 : Starting operator 'cluster_random_perturbation' (formula Al4B12Ti2)
+ 12-Jul-2024 05:09:57 : End operator (formula Al4B12Ti2)
+ One structure found, begin to optimize this structure
+ 12-Jul-2024 05:09:57: begin structure optimization subroutine at step 4
+ 12-Jul-2024 06:44:57: Optimization Done
+ Rejected, F(old)=-97.671 F(new)=-94.445
+ 12-Jul-2024 06:44:57  GCBH (natoms= 18, Al4B12Ti2) Steps:       3 E=   -97.67117556 F=   -97.67117556
+ modifier cluster_random_perturbation (weight 1.65)
+ Current Temperature is 1000.00
+ -------------------------------------------------------
+ -------------------------------------------------------
+ 12-Jul-2024 06:44:57:  Starting Basin-Hopping Step 00005
+ 12-Jul-2024 06:44:57 : Starting operator 'cluster_random_perturbation' (formula Al4B12Ti2)
+ 12-Jul-2024 06:44:57 : End operator (formula Al4B12Ti2)
+ One structure found, begin to optimize this structure
+ 12-Jul-2024 06:44:57: begin structure optimization subroutine at step 5
+ 12-Jul-2024 07:45:00: Optimization Done
+ Rejected, F(old)=-97.671 F(new)=-96.967
+ 12-Jul-2024 07:45:00  GCBH (natoms= 18, Al4B12Ti2) Steps:       4 E=   -97.67117556 F=   -97.67117556
+ modifier cluster_random_perturbation (weight 1.57)
+ Current Temperature is 1000.00
+ -------------------------------------------------------
+ -------------------------------------------------------
+ 12-Jul-2024 07:45:00:  Starting Basin-Hopping Step 00006
+ 12-Jul-2024 07:45:00 : Starting operator 'cluster_random_perturbation' (formula Al4B12Ti2)
+ 12-Jul-2024 07:45:00 : End operator (formula Al4B12Ti2)
+ One structure found, begin to optimize this structure
+ 12-Jul-2024 07:45:00: begin structure optimization subroutine at step 6
+ 12-Jul-2024 10:44:35: Optimization Done
+ Rejected, F(old)=-97.671 F(new)=-88.161
+ 12-Jul-2024 10:44:35  GCBH (natoms= 18, Al4B12Ti2) Steps:       5 E=   -97.67117556 F=   -97.67117556
+ modifier cluster_random_perturbation (weight 1.49)
+ Current Temperature is 1000.00
+ -------------------------------------------------------
+ -------------------------------------------------------
+ 12-Jul-2024 10:44:35:  Starting Basin-Hopping Step 00007
+ 12-Jul-2024 10:44:35 : Starting operator 'cluster_random_perturbation' (formula Al4B12Ti2)
+ 12-Jul-2024 10:44:35 : End operator (formula Al4B12Ti2)
+ One structure found, begin to optimize this structure
+ 12-Jul-2024 10:44:35: begin structure optimization subroutine at step 7
+ 12-Jul-2024 11:57:25: Optimization Done
+ Rejected, F(old)=-97.671 F(new)=-96.737
+ 12-Jul-2024 11:57:25  GCBH (natoms= 18, Al4B12Ti2) Steps:       6 E=   -97.67117556 F=   -97.67117556
+ modifier cluster_random_perturbation (weight 1.42)
+ Current Temperature is 1000.00
+ -------------------------------------------------------
+ -------------------------------------------------------
+ 12-Jul-2024 11:57:25:  Starting Basin-Hopping Step 00008
+ 12-Jul-2024 11:57:25 : Starting operator 'cluster_random_perturbation' (formula Al4B12Ti2)
+ 12-Jul-2024 11:57:25 : End operator (formula Al4B12Ti2)
+ One structure found, begin to optimize this structure
+ 12-Jul-2024 11:57:25: begin structure optimization subroutine at step 8
+ 12-Jul-2024 12:31:37: Optimization Done
+ Rejected, F(old)=-97.671 F(new)=-93.633
+ 12-Jul-2024 12:31:37  GCBH (natoms= 18, Al4B12Ti2) Steps:       7 E=   -97.67117556 F=   -97.67117556
+ modifier cluster_random_perturbation (weight 1.35)
+ Current Temperature is 1000.00
+ -------------------------------------------------------
+ -------------------------------------------------------
+ 12-Jul-2024 12:31:37:  Starting Basin-Hopping Step 00009
+ 12-Jul-2024 12:31:37 : Starting operator 'cluster_random_perturbation' (formula Al4B12Ti2)
+ 12-Jul-2024 12:31:37 : End operator (formula Al4B12Ti2)
+ One structure found, begin to optimize this structure
+ 12-Jul-2024 12:31:37: begin structure optimization subroutine at step 9
+ 12-Jul-2024 12:43:05: Optimization Done
+ Rejected, F(old)=-97.671 F(new)=-92.531
+ 12-Jul-2024 12:43:05  GCBH (natoms= 18, Al4B12Ti2) Steps:       8 E=   -97.67117556 F=   -97.67117556
+ modifier cluster_random_perturbation (weight 1.29)
+ Current Temperature is 1000.00
+ -------------------------------------------------------
+ -------------------------------------------------------
+ 12-Jul-2024 12:43:05:  Starting Basin-Hopping Step 00010
+ 12-Jul-2024 12:43:05 : Starting operator 'cluster_random_perturbation' (formula Al4B12Ti2)
+ 12-Jul-2024 12:43:05 : End operator (formula Al4B12Ti2)
+ One structure found, begin to optimize this structure
+ 12-Jul-2024 12:43:05: begin structure optimization subroutine at step 10
+ 12-Jul-2024 13:40:13: Optimization Done
+ Rejected, F(old)=-97.671 F(new)=-94.567
+ 12-Jul-2024 13:40:13  GCBH (natoms= 18, Al4B12Ti2) Steps:       9 E=   -97.67117556 F=   -97.67117556
+ modifier cluster_random_perturbation (weight 1.23)
+ Current Temperature is 1000.00
+ -------------------------------------------------------
+ -------------------------------------------------------
+ 12-Jul-2024 13:40:14:  Starting Basin-Hopping Step 00011
+ 12-Jul-2024 13:40:14 : Starting operator 'cluster_random_perturbation' (formula Al4B12Ti2)
+ 12-Jul-2024 13:40:14 : End operator (formula Al4B12Ti2)
+ One structure found, begin to optimize this structure
+ 12-Jul-2024 13:40:14: begin structure optimization subroutine at step 11

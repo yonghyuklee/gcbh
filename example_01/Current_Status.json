@@ -1,0 +1,12 @@
+{
+    "Temperature": 1000,
+    "energy_min": -97.67117556,
+    "free_energy_min": -97.67117556,
+    "history": "0,0,0,0,0,0,0,0,0,0",
+    "modifier_name": "cluster_random_perturbation",
+    "no_improvement_step": 10,
+    "nsteps": 11,
+    "on_optimization": 11,
+    "rejection_rate": 0.9090909090909091,
+    "t_nve": 1000
+}
