@@ -1,0 +1,7 @@
+{
+  "root": "../scripts/opt_folder",
+  "folder_save_best_structs": "./best-structs-mace/",
+  "save_best_structs": true,
+  "label_energy": "-2439.00648008",
+  "save_last_in_ea_md": false
+}

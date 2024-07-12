@@ -1,0 +1,6 @@
+{
+  "input_traj": "input.traj",
+  "chemical_potential": "./chemical_potentials.dat",
+  "temperature": 1000,
+  "t_nve": 1000
+}
